@@ -1,0 +1,27 @@
+# ============================================================
+# R / RStudio
+# ============================================================
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# ============================================================
+# Large reproducible CHIRPS3 source data
+# Downloaded automatically by the scripts
+# ============================================================
+data/chirps3_raw/
+data/chirps3_climatology/
+
+# Partial/incomplete downloads
+*.part
+
+# ============================================================
+# Temporary files
+# ============================================================
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db

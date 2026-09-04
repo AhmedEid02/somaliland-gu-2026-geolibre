@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Somaliland Gu 2026 Rainfall Anomaly Explorer"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Ismail"
+    given-names: "Ahmed Hussein"
+
+version: 1.0.0
+date-released: 2026-09-04
+
+repository-code: "https://github.com/AhmedEid02/somaliland-gu-2026-geolibre"
+
+abstract: >
+  Reproducible R workflow for analyzing Gu 2026 rainfall across Somaliland
+  using CHIRPS3, a 1991–2020 climatological baseline, regional rainfall
+  diagnostics, and interactive GeoLibre visualizations.
+
+keywords:
+  - CHIRPS3
+  - GeoLibre
+  - R
+  - agro-meteorology
+  - rainfall anomaly
+  - climatology
+  - Somaliland
+  - GIS
+  - climate data
+  - interactive mapping
+
+license: MIT
