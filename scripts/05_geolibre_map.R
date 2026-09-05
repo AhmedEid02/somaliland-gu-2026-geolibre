@@ -48,7 +48,9 @@ print(
 # 2. Build interactive GeoLibre GIS
 # ------------------------------------------------------------
 
-m <- geolibre() |>
+m <- geolibre(
+  name = "Somaliland Gu 2026 Rainfall Explorer"
+) |>
   
   add_choropleth(
     regions_map,

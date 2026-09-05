@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "name": "Untitled Project",
+  "name": "Somaliland Gu 2026 Rainfall Explorer",
   "mapView": {
     "center": [46, 9.5],
     "zoom": 5.6,
@@ -12,7 +12,7 @@
   "basemapOpacity": 1,
   "layers": [
     {
-      "id": "e22650ba-5c7e-43a5-907e-0a1ee8a2449b",
+      "id": "b12a6459-80f3-43c5-a770-6008e3e16e39",
       "name": "1991–2020 Gu Climatology",
       "type": "geojson",
       "visible": true,
@@ -3503,7 +3503,7 @@
       }
     },
     {
-      "id": "a6e9b54b-dc2e-4dde-ac7b-3eaf82178402",
+      "id": "177832aa-4551-43ad-b6c3-89c1a2e8c607",
       "name": "Gu 2026 Rainfall",
       "type": "geojson",
       "visible": true,
@@ -6994,7 +6994,7 @@
       }
     },
     {
-      "id": "0e2f6252-0430-4ab9-a19b-eef35d2c62d1",
+      "id": "8625a62f-f35b-46f7-8914-ee60d3ec4eaa",
       "name": "Gu 2026 Rainfall Anomaly",
       "type": "geojson",
       "visible": false,
@@ -10485,7 +10485,7 @@
       }
     },
     {
-      "id": "6220ec23-498c-4d02-adcd-de49f9a3f727",
+      "id": "479ed02e-dce3-45b4-bc3a-97eaff817d28",
       "name": "Gu 2026 Percent of Normal",
       "type": "geojson",
       "visible": false,
@@ -14007,10 +14007,10 @@
         "collapsed": false,
         "active": true,
         "leftLayers": [
-          "e22650ba-5c7e-43a5-907e-0a1ee8a2449b"
+          "b12a6459-80f3-43c5-a770-6008e3e16e39"
         ],
         "rightLayers": [
-          "a6e9b54b-dc2e-4dde-ac7b-3eaf82178402"
+          "177832aa-4551-43ad-b6c3-89c1a2e8c607"
         ],
         "isDragging": false
       }
